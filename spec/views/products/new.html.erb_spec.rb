@@ -24,7 +24,8 @@ describe "products/new.html.erb" do
   end
 
   it "renders a text field with price" do
-    product.stub(:price).and_return(12.3)
+    #the following method is only useful when using mock_model
+    #product.stub(:price).and_return(12.3)
     render
     rendered.should have_selector("form") do |form|
       form.should have_selector("input",

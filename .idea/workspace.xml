@@ -72,7 +72,7 @@
           <file leaf-file-name="new.html.erb_spec.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.33566433">
+                <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.21678321">
                   <folding />
                 </state>
               </provider>
@@ -803,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.33566433">
+        <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.21678321">
           <folding />
         </state>
       </provider>
