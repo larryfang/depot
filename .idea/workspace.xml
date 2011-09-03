@@ -41,7 +41,7 @@
           <file leaf-file-name="new.html.erb_spec.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
+                <state line="13" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -72,7 +72,7 @@
           <file leaf-file-name="new.html.erb_spec.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="45" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.83916086">
+                <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.33566433">
                   <folding />
                 </state>
               </provider>
@@ -639,7 +639,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="141" width="768" height="814" extended-state="0" />
+    <frame x="651" y="22" width="768" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11911357" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -803,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="45" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.83916086">
+        <state line="7" column="39" selection-start="327" selection-end="327" vertical-scroll-proportion="0.33566433">
           <folding />
         </state>
       </provider>
