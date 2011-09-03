@@ -41,7 +41,7 @@
           <file leaf-file-name="new.html.erb_spec.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="19" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+                <state line="13" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -50,7 +50,7 @@
           <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="33" selection-start="436" selection-end="436" vertical-scroll-proportion="0.14035088">
+                <state line="15" column="33" selection-start="436" selection-end="436" vertical-scroll-proportion="1.0526316">
                   <folding />
                 </state>
               </provider>
@@ -72,7 +72,7 @@
           <file leaf-file-name="new.html.erb_spec.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="64" selection-start="738" selection-end="738" vertical-scroll-proportion="0.7069597">
+                <state line="31" column="45" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.83916086">
                   <folding />
                 </state>
               </provider>
@@ -796,14 +796,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="436" selection-end="436" vertical-scroll-proportion="0.14035088">
+        <state line="15" column="33" selection-start="436" selection-end="436" vertical-scroll-proportion="1.0526316">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/views/products/new.html.erb_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="64" selection-start="738" selection-end="738" vertical-scroll-proportion="0.7069597">
+        <state line="31" column="45" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.83916086">
           <folding />
         </state>
       </provider>
