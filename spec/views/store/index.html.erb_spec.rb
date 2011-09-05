@@ -13,6 +13,7 @@ describe "store/index.html.erb" do
     rendered.should contain(product.title)
     rendered.should contain(product.description)
     rendered.should contain(product.price.to_s)
+
   end
 end
 
