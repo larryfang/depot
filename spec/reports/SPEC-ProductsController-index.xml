@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProductsController index" tests="1" time="0.024215" failures="0" errors="0" skipped="0">
+  <testcase name="ProductsController index lists all the products with image, title and price information" time="0.024004">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

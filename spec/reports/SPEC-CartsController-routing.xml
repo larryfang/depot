@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CartsController routing" tests="7" time="0.016217" failures="0" errors="0" skipped="0">
+  <testcase name="CartsController routing routes to #index" time="0.00432">
+  </testcase>
+  <testcase name="CartsController routing routes to #new" time="0.002297">
+  </testcase>
+  <testcase name="CartsController routing routes to #show" time="0.002579">
+  </testcase>
+  <testcase name="CartsController routing routes to #edit" time="0.001627">
+  </testcase>
+  <testcase name="CartsController routing routes to #create" time="0.001551">
+  </testcase>
+  <testcase name="CartsController routing routes to #update" time="0.001645">
+  </testcase>
+  <testcase name="CartsController routing routes to #destroy" time="0.001569">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

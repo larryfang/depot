@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineItemsController POST create with invalid params" tests="2" time="0.028876" failures="0" errors="2" skipped="0">
+  <testcase name="LineItemsController POST create with invalid params assigns a newly created but unsaved line_item as @line_item" time="0.013842">
+    <failure type="ActiveRecord::RecordNotFound" message="Couldn't find Product without an ID">
+Couldn't find Product without an ID (ActiveRecord::RecordNotFound)
+ActiveRecord::RecordNotFound:
+Couldn't find Product without an ID
+     ./app/controllers/line_items_controller.rb:44:in `create'
+     ./spec/controllers/line_items_controller_spec.rb:85:in `block (4 levels) in &lt;top (required)&gt;'    </failure>
+  </testcase>
+  <testcase name="LineItemsController POST create with invalid params re-renders the 'new' template" time="0.014718">
+    <failure type="ActiveRecord::RecordNotFound" message="Couldn't find Product without an ID">
+Couldn't find Product without an ID (ActiveRecord::RecordNotFound)
+ActiveRecord::RecordNotFound:
+Couldn't find Product without an ID
+     ./app/controllers/line_items_controller.rb:44:in `create'
+     ./spec/controllers/line_items_controller_spec.rb:92:in `block (4 levels) in &lt;top (required)&gt;'    </failure>
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

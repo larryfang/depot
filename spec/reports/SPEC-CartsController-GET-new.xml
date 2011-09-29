@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CartsController GET new" tests="1" time="0.01517" failures="0" errors="0" skipped="0">
+  <testcase name="CartsController GET new assigns a new cart as @cart" time="0.014879">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProductsController post create when save is unsuccessful" tests="1" time="0.022147" failures="0" errors="0" skipped="0">
+  <testcase name="ProductsController post create when save is unsuccessful create a new product" time="0.021794">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
