@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineItem" tests="1" time="0.000559" failures="0" errors="0" skipped="1">
+  <testcase name="LineItem add some examples to (or delete) /Users/larry/RubymineProjects/rail/depot/spec/models/line_item_spec.rb (PENDING)" time="0.000142">
+    <skipped/>
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

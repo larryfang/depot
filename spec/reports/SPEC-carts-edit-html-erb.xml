@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="carts/edit.html.erb" tests="1" time="0.10135" failures="0" errors="0" skipped="0">
+  <testcase name="carts/edit.html.erb renders the edit cart form" time="0.100382">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

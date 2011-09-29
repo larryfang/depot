@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineItemsController POST create with valid params" tests="3" time="0.10553" failures="0" errors="3" skipped="0">
+  <testcase name="LineItemsController POST create with valid params creates a new LineItem" time="0.01734">
+    <failure type="ActiveRecord::RecordNotFound" message="Couldn't find Product without an ID">
+Couldn't find Product without an ID (ActiveRecord::RecordNotFound)
+ActiveRecord::RecordNotFound:
+Couldn't find Product without an ID
+     ./app/controllers/line_items_controller.rb:44:in `create'
+     ./spec/controllers/line_items_controller_spec.rb:65:in `block (5 levels) in &lt;top (required)&gt;'
+     ./spec/controllers/line_items_controller_spec.rb:64:in `block (4 levels) in &lt;top (required)&gt;'    </failure>
+  </testcase>
+  <testcase name="LineItemsController POST create with valid params assigns a newly created line_item as @line_item" time="0.071482">
+    <failure type="ActiveRecord::RecordNotFound" message="Couldn't find Product without an ID">
+Couldn't find Product without an ID (ActiveRecord::RecordNotFound)
+ActiveRecord::RecordNotFound:
+Couldn't find Product without an ID
+     ./app/controllers/line_items_controller.rb:44:in `create'
+     ./spec/controllers/line_items_controller_spec.rb:70:in `block (4 levels) in &lt;top (required)&gt;'    </failure>
+  </testcase>
+  <testcase name="LineItemsController POST create with valid params redirects to the created line_item" time="0.016337">
+    <failure type="ActiveRecord::RecordNotFound" message="Couldn't find Product without an ID">
+Couldn't find Product without an ID (ActiveRecord::RecordNotFound)
+ActiveRecord::RecordNotFound:
+Couldn't find Product without an ID
+     ./app/controllers/line_items_controller.rb:44:in `create'
+     ./spec/controllers/line_items_controller_spec.rb:76:in `block (4 levels) in &lt;top (required)&gt;'    </failure>
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

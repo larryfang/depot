@@ -30,6 +30,7 @@ gem 'capistrano'
 group :development,:test do
   # Pretty printed test output
 gem "rspec-rails"
+gem "ci_reporter"
 gem "cucumber-rails", ">= 0.3.2"
  gem "webrat", ">= 0.7.2"
 gem "awesome_print"

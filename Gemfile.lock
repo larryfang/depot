@@ -50,6 +50,8 @@ GEM
       xpath (~> 0.1.4)
     childprocess (0.2.2)
       ffi (~> 1.0.6)
+    ci_reporter (1.6.5)
+      builder (>= 2.1.2)
     coffee-rails (3.1.0)
       coffee-script (>= 2.2.0)
       railties (~> 3.1.0.rc1)
@@ -179,6 +181,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   capistrano
+  ci_reporter
   coffee-rails (~> 3.1.0.rc)
   cucumber-rails (>= 0.3.2)
   jquery-rails

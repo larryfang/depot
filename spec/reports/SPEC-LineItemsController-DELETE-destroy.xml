@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineItemsController DELETE destroy" tests="2" time="0.036121" failures="0" errors="0" skipped="0">
+  <testcase name="LineItemsController DELETE destroy destroys the requested line_item" time="0.018456">
+  </testcase>
+  <testcase name="LineItemsController DELETE destroy redirects to the line_items list" time="0.017296">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
