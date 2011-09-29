@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="store/index.html.erb" tests="1" time="0.025111" failures="0" errors="0" skipped="0">
-  <testcase name="store/index.html.erb display all products order by product title" time="0.012951">
-  </testcase>
-  <system-out>
-  </system-out>
-  <system-err>
-  </system-err>
-</testsuite>

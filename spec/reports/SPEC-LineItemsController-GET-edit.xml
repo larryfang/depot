@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LineItemsController GET edit" tests="1" time="0.018114" failures="0" errors="0" skipped="0">
-  <testcase name="LineItemsController GET edit assigns the requested line_item as @line_item" time="0.017874">
-  </testcase>
-  <system-out>
-  </system-out>
-  <system-err>
-  </system-err>
-</testsuite>
