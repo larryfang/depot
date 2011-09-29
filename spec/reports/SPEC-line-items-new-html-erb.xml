@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="line_items/new.html.erb" tests="1" time="0.016604" failures="0" errors="0" skipped="0">
-  <testcase name="line_items/new.html.erb renders new line_item form" time="0.015535">
-  </testcase>
-  <system-out>
-  </system-out>
-  <system-err>
-  </system-err>
-</testsuite>

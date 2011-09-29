@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="LineItemsController GET index" tests="1" time="0.035496" failures="0" errors="0" skipped="0">
-  <testcase name="LineItemsController GET index assigns all line_items as @line_items" time="0.035253">
-  </testcase>
-  <system-out>
-  </system-out>
-  <system-err>
-  </system-err>
-</testsuite>
