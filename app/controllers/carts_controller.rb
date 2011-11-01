@@ -14,7 +14,9 @@ class CartsController < ApplicationController
   # GET /carts/1.json
   def show
     @cart = Cart.find(params[:id])
-
+  rescue ActiveRecord::RecordNotFound
+    logger.error "attempt to access invalid cart #{params[:id]} "
+    redirect_to store_url, notice: 'invalid cart'
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @cart }
@@ -72,11 +74,12 @@ class CartsController < ApplicationController
   # DELETE /carts/1
   # DELETE /carts/1.json
   def destroy
-    @cart = Cart.find(params[:id])
+    @cart = current_cart
     @cart.destroy
+    session[:cart_id] = nil
 
     respond_to do |format|
-      format.html { redirect_to carts_url }
+      format.html { redirect_to store_url }
       format.json { head :ok }
     end
   end
